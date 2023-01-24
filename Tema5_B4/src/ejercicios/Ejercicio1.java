@@ -17,7 +17,7 @@ public class Ejercicio1 {
 		
 		
 		
-		//Creamos un bucle for que se repitirá 20 veces, asignando los números aleatorios al array.
+		//Creamos un bucle for que se repetirá 20 veces, asignando los números aleatorios al array.
 		for (int i=0; i<tabla.length; i++) {
 			
 			tabla[i]=(int) (Math.random()*100+1);
